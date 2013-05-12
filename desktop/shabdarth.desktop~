@@ -1,0 +1,10 @@
+[Desktop Entry]
+Encoding=UTF-8
+Name=shabdarth
+Comment=English to Hindi Dictionary
+Exec=shabdarth
+Terminal=false
+Type=Application
+Icon=shabdarth
+StartupNotify=true
+Categories=GTK;Education;

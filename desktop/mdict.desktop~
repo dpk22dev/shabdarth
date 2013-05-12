@@ -1,0 +1,10 @@
+[Desktop Entry]
+Encoding=UTF-8
+Name=Shabdarth
+Comment=English to Hindi Dictionary
+Exec=dict_two
+Terminal=false
+Type=Application
+Icon=mdict.png
+StartupNotify=true
+Categories=GTK;Education;
